@@ -3,25 +3,36 @@
 <h3 align="center"> I'm a Full Stack Web Developer specializing in PHP (Laravel) development.</h3>
 <h3 align="center"> Alongside web development, I also work with Flutter for mobile applications and Python for various programming tasks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shojibkhan528103&label=Profile%20views&color=0e75b6&style=flat" alt="shojibkhan528103" /> </p>
-Web Development
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <!-- Web Development Card -->
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
+    <h3>Web Development</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>PHP (Laravel)</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>MySQL, PostgreSQL</li>
+    </ul>
+  </div>
 
-PHP (Laravel)
+  <!-- Mobile Development Card -->
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
+    <h3>Mobile Development</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>Flutter (Android & iOS)</li>
+    </ul>
+  </div>
 
-HTML, CSS, JavaScript
+  <!-- Programming Languages Card -->
+  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
+    <h3>Programming Languages</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>Python</li>
+      <li>PHP</li>
+      <li>Dart</li>
+    </ul>
+  </div>
+</div>
 
-MySQL, PostgreSQL
-
-Mobile Development
-
-Flutter (Android & iOS)
-
-Programming Languages
-
-Python
-
-PHP
-
-Dart
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shojibkhan528103&theme=" alt="shojibkhan528103" /></a> </p>
 
 - 🔭 I’m currently working on **Shataj Soft Ltd**
