@@ -1,8 +1,27 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Shojib khan</h1>
-<h3 align="center">Front end developer and junior php (laravel) developer.</h3>
+<h3 align="center"> I'm a Full Stack Web Developer specializing in PHP (Laravel) development.</h3>
+<h3 align="center"> Alongside web development, I also work with Flutter for mobile applications and Python for various programming tasks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shojibkhan528103&label=Profile%20views&color=0e75b6&style=flat" alt="shojibkhan528103" /> </p>
+Web Development
 
+PHP (Laravel)
+
+HTML, CSS, JavaScript
+
+MySQL, PostgreSQL
+
+Mobile Development
+
+Flutter (Android & iOS)
+
+Programming Languages
+
+Python
+
+PHP
+
+Dart
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shojibkhan528103&theme=" alt="shojibkhan528103" /></a> </p>
 
 - 🔭 I’m currently working on **Shataj Soft Ltd**
