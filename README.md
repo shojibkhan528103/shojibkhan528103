@@ -1,81 +1,99 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+# Hi 👋, I'm Shojib Khan  
 
-<h1 align="center">Hi 👋, I'm Shojib Khan</h1>
-<h3 align="center">I'm a Full Stack Web Developer specializing in PHP (Laravel) development.</h3>
-<h3 align="center">Alongside web development, I also work with Flutter for mobile applications and Python for various programming tasks.</h3>
+## I'm a Full Stack Web Developer specializing in PHP (Laravel) development.  
+Alongside web development, I also work with Flutter for mobile applications and Python for various programming tasks.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shojibkhan528103&label=Profile%20views&color=0e75b6&style=flat" alt="shojibkhan528103" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=shojibkhan528103&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🔥 Highlights:
+- 🌟 **Top Skills:** PHP (Laravel), Flutter, Python  
+- 🏆 **Achievements:** Solved over 100+ issues in open source projects.  
+- ✨ **Specialty:** Building scalable web applications with modern frameworks.  
+
+---
+
+## 🛠️ Skills:
+
+| **Web Development**               | **Mobile Development**    | **Programming Languages** |
+|-----------------------------------|---------------------------|---------------------------|
+| PHP (Laravel)                     | Flutter (Android & iOS)   | Python                    |
+| HTML, CSS, JavaScript             |                           | PHP                       |
+| MySQL, PostgreSQL                 |                           | Dart                      |
+
+---
+
+## 🔭 Currently Working On:
+- **Shataj Soft Ltd**
+
+## 🌱 Currently Learning:
+- MERN Stack
+
+## 💬 Ask Me About:
+- PHP (Laravel), Bootstrap, TailwindCSS
+
+## 📫 How to Reach Me:
+- **Email:** shojibkhan.dev@gmail.com
+
+---
+
+## 🚀 Featured Projects:
+
+### 🌟 [Project Name 1](https://github.com/shojibkhan528103/project-1)
+- Description: A brief description of what this project does.
+- Technologies: PHP, Laravel, MySQL
+
+### 🌟 [Project Name 2](https://github.com/shojibkhan528103/project-2)
+- Description: A brief description of this project.
+- Technologies: Flutter, Firebase
+
+---
+
+## 🏆 GitHub Achievements:
+
+- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shojibkhan528103&theme=radical)
+- ![GitHub Stars](https://img.shields.io/github/stars/shojibkhan528103?style=social)
+
+---
+
+## 📊 GitHub Stats:
 
 <div align="center">
-  <a href="https://twitter.com/shojibkhan_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shojibkhandev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shojibkhan528103" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/shojibkhan_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:shojibkhan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shojibkhan528103&show_icons=true&locale=en&theme=radical" alt="shojibkhan528103" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shojibkhan528103&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### About Me
-- 🔭 I’m currently working on **Shataj Soft Ltd**
-- 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **PHP (Laravel), Bootstrap, TailwindCSS**
-- 📫 How to reach me **shojibkhan.dev@gmail.com**
+## 📈 Contribution Graph:
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shojibkhan528103&theme=react-dark" alt="GitHub Activity Graph" />
 
 ---
 
-### Skills
+## 🧰 Tools & Technologies:
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin: 20px;">
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;">
-    <h3>Web Development</h3>
-    <ul>
-      <li>PHP (Laravel)</li>
-      <li>HTML, CSS, JavaScript</li>
-      <li>MySQL, PostgreSQL</li>
-    </ul>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;">
-    <h3>Mobile Development</h3>
-    <ul>
-      <li>Flutter (Android & iOS)</li>
-    </ul>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;">
-    <h3>Programming Languages</h3>
-    <ul>
-      <li>Python</li>
-      <li>PHP</li>
-      <li>Dart</li>
-    </ul>
-  </div>
-</div>
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-### GitHub Stats
+## 🤝 Connect With Me:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shojibkhan528103&show_icons=true&locale=en" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shojibkhan528103" height="180em" />
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shojibkhan_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shojibkhandev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shojibkhan528103)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shojibkhan_dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shojibkhan.dev@gmail.com)
 
 ---
 
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shojibkhan528103&theme=default" />
-</p>
+## 💡 Fun Fact:
+I love learning about new technologies and solving real-world problems through coding!
