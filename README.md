@@ -3,36 +3,76 @@
 <h3 align="center"> I'm a Full Stack Web Developer specializing in PHP (Laravel) development.</h3>
 <h3 align="center"> Alongside web development, I also work with Flutter for mobile applications and Python for various programming tasks.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shojibkhan528103&label=Profile%20views&color=0e75b6&style=flat" alt="shojibkhan528103" /> </p>
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <!-- Web Development Card -->
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
-    <h3>Web Development</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>PHP (Laravel)</li>
-      <li>HTML, CSS, JavaScript</li>
-      <li>MySQL, PostgreSQL</li>
-    </ul>
-  </div>
+  <style>
+    /* Container Styles */
+    .card-container {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: 20px;
+    }
 
-  <!-- Mobile Development Card -->
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
-    <h3>Mobile Development</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>Flutter (Android & iOS)</li>
-    </ul>
-  </div>
+    /* Card Styles */
+    .card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      border-radius: 8px;
+      width: 200px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
 
-  <!-- Programming Languages Card -->
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; width: 200px; text-align: center;">
-    <h3>Programming Languages</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>Python</li>
-      <li>PHP</li>
-      <li>Dart</li>
-    </ul>
-  </div>
-</div>
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15); /* Hover effect */
+    }
 
+    /* Unordered List Styles */
+    .card ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .card-container {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+  <div class="card-container">
+    <!-- Web Development Card -->
+    <div class="card" aria-label="Web Development Skills">
+      <h3>Web Development</h3>
+      <ul>
+        <li>PHP (Laravel)</li>
+        <li>HTML, CSS, JavaScript</li>
+        <li>MySQL, PostgreSQL</li>
+      </ul>
+    </div>
+
+    <!-- Mobile Development Card -->
+    <div class="card" aria-label="Mobile Development Skills">
+      <h3>Mobile Development</h3>
+      <ul>
+        <li>Flutter (Android & iOS)</li>
+      </ul>
+    </div>
+
+    <!-- Programming Languages Card -->
+    <div class="card" aria-label="Programming Languages">
+      <h3>Programming Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>PHP</li>
+        <li>Dart</li>
+      </ul>
+    </div>
+  </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shojibkhan528103&theme=" alt="shojibkhan528103" /></a> </p>
 
 - 🔭 I’m currently working on **Shataj Soft Ltd**
